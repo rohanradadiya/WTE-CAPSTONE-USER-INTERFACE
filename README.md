@@ -1,4 +1,4 @@
-# WTE CAPSTONE USER INTERFACE - Rohan
+# WTE Capstone User Interface Module - Rohan
 
  - This repository contains the project files for the user interface for the Capstone Project - Design and Implementation of an Integrated Data-Driven Waste Management System
  - This project folder is meant to represent and be used for simulation purposes, the user interface for the real-time sensor data collection is separate.
